@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
         option.setScanSpan(1000);
         mLocationClient.setLocOption(option);
 
-        //设置图标定位
+        //设置图标定位....
         mLocationBitMap= BitmapDescriptorFactory.fromResource(R.drawable.arrow);
 
     }
