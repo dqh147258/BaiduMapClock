@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item android:title="@string/map_style"
+        android:id="@+id/map_style"
+        android:icon="@drawable/satellite_false"
+        app:showAsAction="always"
+        />
+    <item android:title="@string/map_traffic"
+        android:id="@+id/map_traffic"
+        android:icon="@drawable/traffic_off"
+        app:showAsAction="always"
+        />
+</menu>

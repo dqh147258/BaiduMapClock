@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BaiduMapClock</string>
+    <string name="map_style">Style</string>
+    <string name="map_traffic">traffic</string>
+</resources>
